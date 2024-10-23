@@ -3,6 +3,7 @@ Task Guide Spring Core
   2. Trainee Service class should support possibility to create/update/delete/select Trainee profile.
   3. Trainer Service class should support possibility to create/update/select Trainer profile.
   4. Training Service class should support possibility to create/select Training profile.
+
 Notes:
   1. Configure spring application context based on the Spring annotation or on Java based approach.
   2. Implement DAO objects for each of the domain model entities (Trainer, Trainee,
